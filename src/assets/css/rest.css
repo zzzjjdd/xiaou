@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    /* font-size: 0.4rem; */
+    vertical-align: top;
+    /* font-size: .28rem; */
+}
+
+li {
+    list-style: none;
+}
+
+input, button {
+    outline: none;
+    border: none;
+}
+
